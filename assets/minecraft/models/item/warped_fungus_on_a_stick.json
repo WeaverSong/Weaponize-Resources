@@ -18,6 +18,7 @@
     {"predicate": {"custom_model_data":51}, "model": "item/scythe/diamond_scythe_spinning"},
     {"predicate": {"custom_model_data":60}, "model": "item/scythe/netherite_scythe"},
     {"predicate": {"custom_model_data":61}, "model": "item/scythe/netherite_scythe_spinning"},
-    {"predicate": {"custom_model_data":70}, "model": "item/boomerang/wooden_boomerang"}
+    {"predicate": {"custom_model_data":70}, "model": "item/boomerang/wooden_boomerang"},
+    {"predicate": {"custom_model_data":80}, "model": "item/boomerang/stone_boomerang"}
   ]
 }

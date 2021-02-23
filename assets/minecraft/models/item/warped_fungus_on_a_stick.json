@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides":[
+    {"predicate": {"custom_model_data":1}, "model": "item/scythe/north_reaper_scythe"},
+    {"predicate": {"custom_model_data":2}, "model": "item/scythe/north_reaper_scythe_spinning"},
+    {"predicate": {"custom_model_data":10}, "model": "item/scythe/wooden_scythe"},
+    {"predicate": {"custom_model_data":11}, "model": "item/scythe/wooden_scythe_spinning"},
+    {"predicate": {"custom_model_data":20}, "model": "item/scythe/stone_scythe"},
+    {"predicate": {"custom_model_data":21}, "model": "item/scythe/stone_scythe_spinning"},
+    {"predicate": {"custom_model_data":30}, "model": "item/scythe/iron_scythe"},
+    {"predicate": {"custom_model_data":31}, "model": "item/scythe/iron_scythe_spinning"},
+    {"predicate": {"custom_model_data":40}, "model": "item/scythe/gold_scythe"},
+    {"predicate": {"custom_model_data":41}, "model": "item/scythe/gold_scythe_spinning"},
+    {"predicate": {"custom_model_data":50}, "model": "item/scythe/diamond_scythe"},
+    {"predicate": {"custom_model_data":51}, "model": "item/scythe/diamond_scythe_spinning"},
+    {"predicate": {"custom_model_data":60}, "model": "item/scythe/netherite_scythe"},
+    {"predicate": {"custom_model_data":61}, "model": "item/scythe/netherite_scythe_spinning"},
+    {"predicate": {"custom_model_data":70}, "model": "item/boomerang/wooden_boomerang"}
+  ]
+}

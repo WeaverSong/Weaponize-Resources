@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/fermented_spider_eye"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100}, "model": "item/boomerang/hollow_boomerang_icon"},
+        {"predicate": {"custom_model_data":101}, "model": "item/boomerang/wooden_boomerang_spinning"}
+    ]
+}

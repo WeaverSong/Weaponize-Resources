@@ -6,6 +6,8 @@
   "overrides":[
     {"predicate": {"custom_model_data":1}, "model": "item/scythe/north_reaper_scythe"},
     {"predicate": {"custom_model_data":2}, "model": "item/scythe/north_reaper_scythe_spinning"},
+    {"predicate": {"custom_model_data":3}, "model": "item/scythe/bladesinger_kata"},
+    {"predicate": {"custom_model_data":4}, "model": "item/scythe/bladesinger_kata_spinning"},
     {"predicate": {"custom_model_data":10}, "model": "item/scythe/wooden_scythe"},
     {"predicate": {"custom_model_data":11}, "model": "item/scythe/wooden_scythe_spinning"},
     {"predicate": {"custom_model_data":20}, "model": "item/scythe/stone_scythe"},

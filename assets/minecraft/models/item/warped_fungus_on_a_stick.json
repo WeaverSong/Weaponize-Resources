@@ -23,6 +23,7 @@
     {"predicate": {"custom_model_data":70}, "model": "item/boomerang/wooden_boomerang"},
     {"predicate": {"custom_model_data":80}, "model": "item/boomerang/stone_boomerang"},
     {"predicate": {"custom_model_data":90}, "model": "item/boomerang/iron_boomerang"},
-    {"predicate": {"custom_model_data":100}, "model": "item/boomerang/gold_boomerang"}
+    {"predicate": {"custom_model_data":100}, "model": "item/boomerang/gold_boomerang"},
+    {"predicate": {"custom_model_data":110}, "model": "item/boomerang/diamond_boomerang"}
   ]
 }

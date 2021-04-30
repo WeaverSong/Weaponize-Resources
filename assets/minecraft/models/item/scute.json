@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/scute"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/wrench"},
+    {"predicate": {"custom_model_data":1}, "model": "item/tools/wrench"},
     {"predicate": {"custom_model_data":2}, "model": "ballista/baseitem"},
     {"predicate": {"custom_model_data":10}, "model": "ballista/shot/wooden"}
   ]

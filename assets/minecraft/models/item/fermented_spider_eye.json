@@ -4,6 +4,8 @@
         "layer0": "item/fermented_spider_eye"
     },
     "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "boss/oracle"},
+        {"predicate": {"custom_model_data":2}, "model": "boss/shadeguard"},
         {"predicate": {"custom_model_data":100}, "model": "item/boomerang/hollow_boomerang_icon"},
         {"predicate": {"custom_model_data":101}, "model": "item/boomerang/wooden_boomerang_spinning"},
         {"predicate": {"custom_model_data":102}, "model": "item/boomerang/stone_boomerang_spinning"},
@@ -11,6 +13,7 @@
         {"predicate": {"custom_model_data":104}, "model": "item/boomerang/gold_boomerang_spinning"},
         {"predicate": {"custom_model_data":105}, "model": "item/boomerang/diamond_boomerang_spinning"},
         {"predicate": {"custom_model_data":106}, "model": "item/boomerang/netherite_boomerang_spinning"},
-        {"predicate": {"custom_model_data":107}, "model": "item/boomerang/loot-rang_boomerang_spinning"}
+        {"predicate": {"custom_model_data":107}, "model": "item/boomerang/loot-rang_boomerang_spinning"},
+        {"predicate": {"custom_model_data":10000}, "model": "misc/shadespear"}
     ]
 }

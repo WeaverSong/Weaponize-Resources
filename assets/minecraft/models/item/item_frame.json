@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "ballista/base"},
+        {"predicate": {"custom_model_data":2}, "model": "ballista/item"},
+        {"predicate": {"custom_model_data":10}, "model": "ballista/top/unloaded"},
+        {"predicate": {"custom_model_data":11}, "model": "ballista/top/load-1"},
+        {"predicate": {"custom_model_data":12}, "model": "ballista/top/load-2"},
+        {"predicate": {"custom_model_data":13}, "model": "ballista/top/loaded"},
+        {"predicate": {"custom_model_data":14}, "model": "ballista/top/loaded-wooden"}
+    ]
+}

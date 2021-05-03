@@ -27,6 +27,8 @@
     {"predicate": {"custom_model_data":100}, "model": "item/boomerang/gold_boomerang"},
     {"predicate": {"custom_model_data":110}, "model": "item/boomerang/diamond_boomerang"},
     {"predicate": {"custom_model_data":120}, "model": "item/boomerang/netherite_boomerang"},
-    {"predicate": {"custom_model_data":1000}, "model": "armor/horned_leather_helmet"}
+    {"predicate": {"custom_model_data":1000}, "model": "armor/horned_leather_helmet"},
+    {"predicate": {"custom_model_data":1001}, "model": "armor/bucket_helm"},
+    {"predicate": {"custom_model_data":1002}, "model": "armor/gold_crown"}
   ]
 }

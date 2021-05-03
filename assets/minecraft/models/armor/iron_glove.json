@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [1, 1],
+	"textures": {
+		"1": "models/armor/iron_layer_1",
+		"particle": "block/iron_block"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 0],
+			"to": [10, 4, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 0, 4, 4], "texture": "#1"},
+				"east": {"uv": [2, 0, 4, 4], "texture": "#1"},
+				"south": {"uv": [2, 0, 4, 4], "texture": "#1"},
+				"west": {"uv": [2, 0, 4, 4], "texture": "#1"},
+				"up": {"uv": [2, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [2, 0, 4, 4], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.75, 7.25],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4.75, 7.25],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [20, -21, -21],
+			"translation": [0, 4.75, 6.5],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, -80, 0]
+		},
+		"ground": {
+			"translation": [0, 4.5, 3]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [4.25, 6.5, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [4.25, 5.5, -1.75]
+		}
+	}
+}

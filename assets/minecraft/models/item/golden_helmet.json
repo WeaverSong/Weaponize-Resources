@@ -5,6 +5,22 @@
   },
     "overrides":
     [
-        {"predicate": {"custom_model_data":1002}, "model": "armor/gold_crown_item"}
+        {"predicate": {"custom_model_data":1002}, "model": "armor/gold_crown_item"},
+        {"predicate": {"custom_model_data":1003}, "model": "armor/gold_helmet/white_item"},
+        {"predicate": {"custom_model_data":1004}, "model": "armor/gold_helmet/black_item"},
+        {"predicate": {"custom_model_data":1005}, "model": "armor/gold_helmet/blue_item"},
+        {"predicate": {"custom_model_data":1006}, "model": "armor/gold_helmet/brown_item"},
+        {"predicate": {"custom_model_data":1007}, "model": "armor/gold_helmet/cyan_item"},
+        {"predicate": {"custom_model_data":1008}, "model": "armor/gold_helmet/gray_item"},
+        {"predicate": {"custom_model_data":1009}, "model": "armor/gold_helmet/green_item"},
+        {"predicate": {"custom_model_data":1010}, "model": "armor/gold_helmet/light_blue_item"},
+        {"predicate": {"custom_model_data":1011}, "model": "armor/gold_helmet/light_gray_item"},
+        {"predicate": {"custom_model_data":1012}, "model": "armor/gold_helmet/lime_item"},
+        {"predicate": {"custom_model_data":1013}, "model": "armor/gold_helmet/magenta_item"},
+        {"predicate": {"custom_model_data":1014}, "model": "armor/gold_helmet/orange_item"},
+        {"predicate": {"custom_model_data":1015}, "model": "armor/gold_helmet/pink_item"},
+        {"predicate": {"custom_model_data":1016}, "model": "armor/gold_helmet/purple_item"},
+        {"predicate": {"custom_model_data":1017}, "model": "armor/gold_helmet/red_item"},
+        {"predicate": {"custom_model_data":1018}, "model": "armor/gold_helmet/yellow_item"}
     ]
 }

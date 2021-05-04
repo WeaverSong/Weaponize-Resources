@@ -1,0 +1,6 @@
+{
+    "parent": "item/battleaxes/wooden",
+    "textures": {
+        "0": "block/diamond_block"
+    }
+}

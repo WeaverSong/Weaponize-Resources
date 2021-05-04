@@ -1,0 +1,6 @@
+{
+    "parent": "item/spears/iron_stab",
+    "textures": {
+        "1": "block/gold_block"
+    }
+}

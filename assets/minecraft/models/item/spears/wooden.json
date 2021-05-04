@@ -1,0 +1,6 @@
+{
+    "parent": "item/spears/iron",
+    "textures": {
+        "1": "block/spruce_planks"
+    }
+}

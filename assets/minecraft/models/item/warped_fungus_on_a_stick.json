@@ -45,6 +45,7 @@
     {"predicate": {"custom_model_data":1015}, "model": "armor/gold_helmet/pink"},
     {"predicate": {"custom_model_data":1016}, "model": "armor/gold_helmet/purple"},
     {"predicate": {"custom_model_data":1017}, "model": "armor/gold_helmet/red"},
-    {"predicate": {"custom_model_data":1018}, "model": "armor/gold_helmet/yellow"}
+    {"predicate": {"custom_model_data":1018}, "model": "armor/gold_helmet/yellow"},
+    {"predicate": {"custom_model_data":1019}, "model": "armor/sealed_diamond_helmet"}
   ]
 }
